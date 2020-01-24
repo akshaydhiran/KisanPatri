@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "844172130464",
+    "firebase_url": "https://kisanpatri-1b037.firebaseio.com",
+    "project_id": "kisanpatri-1b037",
+    "storage_bucket": "kisanpatri-1b037.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844172130464:android:3b158c3a4e7d9721fc71c5",
+        "android_client_info": {
+          "package_name": "com.example.kisanpatri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844172130464-3h8n3i7veah8jv1b6ldbc2pjounkj6gi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kisanpatri",
+            "certificate_hash": "494d35c54849175eb7c397659bf00439c852cee4"
+          }
+        },
+        {
+          "client_id": "844172130464-uprmjl7ieqtbgtl1n1h2tjpf3m1qi4nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaMnjBrvDUjZHSem0ecpyZxyOQKJ4IJXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844172130464-uprmjl7ieqtbgtl1n1h2tjpf3m1qi4nu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
